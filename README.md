@@ -164,11 +164,11 @@ Acesse **http://localhost:5173**. O computador precisa estar na **mesma rede Wi-
 
 | Integrante | Liderança | Responsabilidades |
 |---|---|---|
-| [**Jefferson Rezende**](https://github.com/jeffersonrezende2007) |  Front-end | Dashboard web em React, integração com a API e interface em tempo real |
-| [**Victor**](https://github.com/Vhcor) |  Hardware | Montagem da protoboard, ligação dos sensores e testes físicos |
-| [**Nicolas**]  Back-end | Firmware do ESP32 e desenvolvimento da API HTTP |
-| [**Greta**]  Documentação | Documentação técnica do projeto e relatórios |
-| [**Adailton**](https://github.com/Adailtonn28) |  Pesquisa | Levantamento do local, escolha da placa e dos sensores, pesquisa de preços e orçamento |
+| [**Jefferson Rezende**](https://github.com/jeffersonrezende2007) | Front-end | Dashboard web em React, integração com a API e interface em tempo real |
+| [**Victor**](https://github.com/Vhcor) | Hardware | Montagem da protoboard, ligação dos sensores e testes físicos |
+| **Nicolas** | Back-end | Firmware do ESP32 e desenvolvimento da API HTTP |
+| **Greta** | Documentação | Documentação técnica do projeto e relatórios |
+| [**Adailton**](https://github.com/Adailtonn28) | Pesquisa | Levantamento do local, escolha da placa e dos sensores, pesquisa de preços e orçamento |
 
 ---
 
